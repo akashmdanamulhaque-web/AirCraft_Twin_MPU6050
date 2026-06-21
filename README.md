@@ -191,4 +191,4 @@ self.camera.setPos(...)
 # Author
 
 Anamul Akash
-
+(This guide follows the actual development process, including the issues encountered and the solutions used to resolve them, making it easier for new users to reproduce the project successfully.)
